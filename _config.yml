@@ -1,9 +1,6 @@
 title: Sameer Shah # your name (or website title) here
 logo: 'images/Sameer_Shah_Profile_min.JPG' # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-<br>
-  <label style="font-weight: bold; font-size: large;">Data Scientist</label>
-<br>
-  <label style="font-weight: bold; font-size: large;">Sports Enthusiast</label>
-<br>
+<label style="font-weight: bold; font-size: large;">Data Scientist</label> <br><br>
+<label style="font-weight: bold; font-size: large;">Sports Enthusiast</label> <br><br>
 theme: jekyll-theme-minimal
