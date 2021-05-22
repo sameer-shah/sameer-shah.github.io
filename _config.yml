@@ -4,9 +4,11 @@ logo: 'images/Sameer_Shah_Profile_min.JPG'
 
 description: >
   <br><br>
-  <a><label style="font-weight:bold; font-size:large; ">Data Scientist</label></a>
+  <a><label style="font-size:large; ">Data Scientist</label></a>
   <br><br>
-  <a><label style="font-weight:bold; font-size:large; ">Sports Enthusiast</label></a>
-   <br><br>
+  <a><label style="font-size:large; ">Sports Enthusiast</label></a>
+  <br><br>
+  <a href="/about/" target="_blank" style="cursor:pointer"><label style="font-size:large; ">More About Me</label></a>
+
 
 theme: jekyll-theme-minimal
