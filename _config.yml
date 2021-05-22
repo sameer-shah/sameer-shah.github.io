@@ -1,18 +1,5 @@
 title: Sameer Shah # your name (or website title) here
-logo: "/images/Sameer_Shah_Profile_min.JPG?raw=true" # your photo (or logo) here
+logo: "/images/Sameer_Shah_Profile_min.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
   <label style="font-weight: bold; font-size: large;">Data Scientist</label>
-  <br><br>
-  M.Sc, <a href="https://www.iisc.ac.in/" target="_blank" style="cursor:pointer"><label style="cursor: pointer">IISc Bangalore</label></a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sameershah141/" target="_blank" style="cursor:pointer"><img style="max-width: 6%; vertical-align: text-top" src="/images/linkedin_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">LinkedIn</label></a> 
-  <br><br>
-  <a href="/Tut" style="cursor:pointer"><img style="max-width: 6%; vertical-align:middle;" src="/images/articles_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">My Articles</label></a>
-  <br><br>
-  <a href="/Sameer_Shah_Resume_V4.pdf" style="cursor:pointer" target="_blank"><img style="max-width: 6%; vertical-align:middle;" src="/images/resume_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Resume</label></a>
-  <br><br>
-  <a href="mailto:sameerbipinshah@gmail.com"><img style="max-width: 6%; vertical-align:middle;" src="/images/mail_thumbnail.png"><label style="padding-left: 2%; cursor: pointer">Contact Me</label></a>
-  <br><br>
-
 theme: jekyll-theme-cayman
