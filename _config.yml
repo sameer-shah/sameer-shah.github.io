@@ -8,7 +8,7 @@ description: >
   <br><br>
   <a><label style="font-size:large; ">Sports Enthusiast</label></a>
   <br><br>
-  <a href="/about/" target="_blank" style="cursor:pointer"><label style="font-size:large; ">More About Me</label></a>
+  <a href="/about" target="_blank" style="cursor:pointer"><label style="font-size:large; ">More About Me</label></a>
 
 
 theme: jekyll-theme-minimal
