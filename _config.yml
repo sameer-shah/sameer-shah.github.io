@@ -1,9 +1,9 @@
 title: Sameer Shah
 logo: 'images/Sameer_Shah_Profile_min.JPG'
-description: > 
+description:
 <br><br>
-<label style="font-weight: bold; font-size: large;">Data Scientist</label>
+<label style="font-weight:bold; font-size:large;">Data Scientist</label>
 <br><br>
-<label style="font-weight: bold; font-size: large;">Sports Enthusiast</label>
+<label style="font-weight:bold; font-size:large;">Sports Enthusiast</label>
 <br><br>
 theme: jekyll-theme-minimal
