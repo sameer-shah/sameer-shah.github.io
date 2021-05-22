@@ -3,4 +3,4 @@ subtitle: Data Scientist
 logo: 'images/Sameer_Shah_Profile_min.JPG' # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <label style="font-weight: bold; font-size: large;">Data Scientist</label>
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
