@@ -4,9 +4,9 @@ logo: 'images/Sameer_Shah_Profile_min.JPG'
 
 description: >
   <br><br>
-  <label style="font-weight:bold; font-size:large; ">Data Scientist</label>
+  <a><label style="font-weight:bold; font-size:large; ">Data Scientist</label></a>
   <br><br>
-  <label style="font-weight:bold; font-size:large; ">Sports Enthusiast</label>
+  <a><label style="font-weight:bold; font-size:large; ">Sports Enthusiast</label></a>
    <br><br>
 
 theme: jekyll-theme-minimal
