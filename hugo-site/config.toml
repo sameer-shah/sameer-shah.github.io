@@ -1,0 +1,63 @@
+baseURL = "https://your-site.netlify.app/"
+title = "Sameer Shah"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[params]
+  author = "Sameer Shah"
+  description = "Data Scientist, Sports Enthusiast, Photographer"
+  ShowShareButtons = false
+  ShowReadingTime = false
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+[params.profileMode]
+  enabled = true
+  title = "Sameer Shah"
+  subtitle = "Data Scientist | Sports Enthusiast | Photographer"
+  imageUrl = "images/Sameer_Shah_Profile_min.JPG"
+  imageTitle = "Sameer Shah"
+  imageWidth = 120
+  imageHeight = 120
+
+[params.assets]
+  favicon = "images/Sameer_Shah_Profile_min.JPG"
+
+[params.socialIcons]
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/sameershah141/"
+  [[params.socialIcons]]
+    name = "Instagram"
+    url = "https://www.instagram.com/pixels.by.sameer.shah/"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "ds"
+    name = "Data Science"
+    url = "/ds/"
+    weight = 2
+  [[menu.main]]
+    identifier = "sports"
+    name = "Sports"
+    url = "/sports/"
+    weight = 3
+  [[menu.main]]
+    identifier = "photography"
+    name = "Photography"
+    url = "/photography/"
+    weight = 4
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
