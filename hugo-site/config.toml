@@ -1,4 +1,4 @@
-baseURL = "https://your-site.netlify.app/"
+baseURL = "https://sameer-shah.netlify.app/"
 title = "Sameer Shah"
 theme = "PaperMod"
 languageCode = "en-us"
@@ -15,13 +15,13 @@ languageCode = "en-us"
   enabled = true
   title = "Sameer Shah"
   subtitle = "Data Scientist | Sports Enthusiast | Photographer"
-  imageUrl = "images/Sameer_Shah_Profile_min.JPG"
+  imageUrl = "/images/Sameer_Shah_Profile_min.JPG"
   imageTitle = "Sameer Shah"
   imageWidth = 120
   imageHeight = 120
 
 [params.assets]
-  favicon = "images/Sameer_Shah_Profile_min.JPG"
+  favicon = "/images/Sameer_Shah_Profile_min.JPG"
 
 [[params.socialIcons]]
     name = "LinkedIn"

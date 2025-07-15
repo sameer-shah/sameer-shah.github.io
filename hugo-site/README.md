@@ -18,15 +18,18 @@ git submodule update --init --recursive
 
 ## Deployment Instructions
 
-### 1. Copy Shared Content
-Before building, copy the shared content:
+
+### 1. Copy Shared Content and Static Assets
+Before building, copy the shared content and static assets:
 - On Windows (PowerShell):
   ```powershell
   .\scripts\copy-shared-content.ps1
+  .\scripts\copy-shared-static.ps1
   ```
 - On Mac/Linux (Shell):
   ```sh
   ./scripts/copy-shared-content.sh
+  ./scripts/copy-shared-static.sh
   ```
 
 ### 2. Build Locally
