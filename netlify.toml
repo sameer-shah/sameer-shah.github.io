@@ -1,0 +1,7 @@
+[build]
+  base = "hugo-site"
+  publish = "hugo-site/public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.124.1"
