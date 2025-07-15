@@ -23,11 +23,10 @@ languageCode = "en-us"
 [params.assets]
   favicon = "images/Sameer_Shah_Profile_min.JPG"
 
-[params.socialIcons]
-  [[params.socialIcons]]
+[[params.socialIcons]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/sameershah141/"
-  [[params.socialIcons]]
+[[params.socialIcons]]
     name = "Instagram"
     url = "https://www.instagram.com/pixels.by.sameer.shah/"
 
