@@ -1,12 +1,12 @@
 title: Sameer Shah
-logo: 'images/Sameer_Shah_Profile_min.jpeg'
+logo: 'content/Sameer_Shah_Profile_min.jpeg'
 
 description: >
   <br><br>
-  <a href="/ds" style="cursor:pointer"><label style="font-size:large; ">Data Scientist</label></a>
+  <a href="/content/ds" style="cursor:pointer"><label style="font-size:large; ">Data Scientist</label></a>
   <br><br>
-  <a href="/sports" style="cursor:pointer"><label style="font-size:large; ">Sports Enthusiast</label></a>
+  <a href="/content/sports" style="cursor:pointer"><label style="font-size:large; ">Sports Enthusiast</label></a>
   <br><br>
-  <a href="/about" style="cursor:pointer"><label style="font-size:large; ">More About Me</label></a>
+  <a href="/content/about" style="cursor:pointer"><label style="font-size:large; ">More About Me</label></a>
 
 theme: jekyll-theme-minimal
