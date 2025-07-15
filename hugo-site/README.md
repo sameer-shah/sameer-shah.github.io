@@ -1,16 +1,38 @@
-# Hugo Site for Sameer Shah
 
-This is the new Hugo-based personal website for Sameer Shah. Content is maintained in `/content-shared/` and copied into this site for deployment.
-
-## How to use
-
-1. Edit content in `/content-shared/`.
-2. Copy updated files into `/hugo-site/content/` before building/deploying.
-3. Build and deploy the site to Netlify.
+# Hugo Site
 
 ## Theme
-- [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)
+PaperMod theme is included as a git submodule in hugo-site/themes/PaperMod.
+To update the theme, run:
+```
+git submodule update --remote --merge
+```
+If you clone this repo, use:
+```
+git clone --recurse-submodules <repo-url>
+```
+Or, after cloning:
+```
+git submodule update --init --recursive
+```
 
-## Deployment
-- Recommended: Netlify (auto-deploy from GitHub)
-- Manual: `hugo` to build, then upload `public/` to your host.
+## Deployment Instructions
+
+### 1. Copy Shared Content
+Before building, copy the shared content:
+- On Windows (PowerShell):
+  ```powershell
+  .\scripts\copy-shared-content.ps1
+  ```
+- On Mac/Linux (Shell):
+  ```sh
+  ./scripts/copy-shared-content.sh
+  ```
+
+### 2. Build Locally
+```
+hugo server -s .
+```
+
+### 3. Deploy to Netlify
+Netlify will automatically run the copy script and build the site using the configuration in `netlify.toml`.
