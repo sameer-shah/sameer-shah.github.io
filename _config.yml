@@ -1,12 +1,4 @@
 title: Sameer Shah
 logo: '/images/profile_pic.JPG'
-
-description: >
-  <br><br>
-  <a href="/content/ds" style="cursor:pointer"><label style="font-size:large; ">Data Scientist</label></a>
-  <br><br>
-  <a href="/content/sports" style="cursor:pointer"><label style="font-size:large; ">Sports Enthusiast</label></a>
-  <br><br>
-  <a href="/content/about" style="cursor:pointer"><label style="font-size:large; ">More About Me</label></a>
-
+description: "Personal website of Sameer Shah, a Data Scientist and Sports Enthusiast."
 theme: jekyll-theme-minimal
