@@ -1,3 +1,3 @@
 # sameer-shah.github.io
 
-Personal profile and other information
+My Personal Profile
